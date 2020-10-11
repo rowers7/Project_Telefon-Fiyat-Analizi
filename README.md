@@ -40,9 +40,16 @@ A. Clustering Algorithms
 ```
 
 ## 2)NATURAL PROCESSING LANGUAGE
-1-----**Bacchanal Buffet Restoran Müşteri Yorumları** <br>
+1-----**Bacchanal Buffet Restoran Müşteri Yorumları Duygu Analizi** <br>
 Article =>[NLP Project: Sentiment Analysis](https://medium.com/analytics-vidhya/nlp-project-sentiment-analysis-601f68b3f4b3) <br>
 Github =>[YELP Analysis](https://github.com/yalinyener/NLPClassification) <br>
+
+2-----**Londra daki en iyi 300 Restoranın Yorumlarının Duygu Analizi** <br>
+Article =>[NLP Project: Sentiment Analysis](https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20) <br>
+Github =>[RestaurantReviews-SentimentAndRecommendation](https://github.com/aybukemeydan/RestaurantReviews-SentimentAndRecommendation) <br>
+
+
+
 ## 3)SQL
 
 
