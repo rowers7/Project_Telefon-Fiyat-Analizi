@@ -21,14 +21,14 @@ Book =>[     ]( ) <br>
 
 
 ### EDA
-1-----**Corona 2019 Analizi** <br>
+1-----** Analizi** <br>
 
 ### SUPERVISED LEARNING
 ```diff
 A. Predict/Regression Algorithms
 ```
 #### 1.Linear Regression
-1----- _Giriş_=>**Yaş Tahmini**(Doğrusal Regresyon)<br>
+1----- _Giriş_=>** Tahmini**(Doğrusal Regresyon)<br>
 
 ```diff
 B. Classification Algorithms
