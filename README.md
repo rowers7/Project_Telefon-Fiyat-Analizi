@@ -40,11 +40,17 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 <details>
 <summary>Algorithms</summary>
 -Random Forest
-</details> <br>
+</details>
+
 ### UNSUPERVISED LEARNING
+
 ```diff
 A. Clustering Algorithms
 ```
+<details>
+<summary>Algorithms</summary>
+-Random Forest
+</details>
 
 ## 2)NATURAL PROCESSING LANGUAGE
 1-----**Bacchanal Buffet Restoran Müşteri Yorumları Duygu Analizi** <br>
