@@ -34,10 +34,10 @@ A. Predict/Regression Algorithms
 ```diff
 B. Classification Algorithms
 ```
-<details>
 1-----**Spotify Sınıflandırma Projesi**<br>
 Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
 Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details>
 <summary>Algorithms</summary>
 Random Forest
 </details>
