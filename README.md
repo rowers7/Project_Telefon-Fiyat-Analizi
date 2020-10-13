@@ -59,7 +59,8 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
   
 </details> <br> <br> <br> <br> <br>
 
-
+</details>
+</details>
 
 
 
