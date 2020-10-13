@@ -39,7 +39,7 @@ Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spo
 Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
 <details>
 <summary>Algorithms</summary>
-Random Forest
+```Random Forest```
 </details>
 ### UNSUPERVISED LEARNING
 ```diff
