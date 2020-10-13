@@ -11,6 +11,7 @@
 
   <br>
 Yazı =>[     ]( ) <br>
+Github =>[     ]( ) <br>
 Article =>[     ]( ) <br>
 Github =>[     ]( ) <br>
 Video =>[     ]( ) <br>
@@ -28,11 +29,14 @@ Book =>[     ]( ) <br>
 A. Predict/Regression Algorithms
 ```
 #### 1.Linear Regression
-1----- _Giriş_=>** Tahmini**(Doğrusal Regresyon)<br>
+
 
 ```diff
 B. Classification Algorithms
 ```
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3) <br>
 
 ### UNSUPERVISED LEARNING
 ```diff
