@@ -23,10 +23,11 @@ Book =>[     ]( ) <br> <br> <br> <br> <br>
 
 <details>
   <summary>
-    ## 1)DATA SCIENCE & MACHINE LEARNING
-  </summary><br>
+   
+    ## 1)DATA SCIENCE & MACHINE LEARNING </summary><br>
   <details>
   <summary>
+    
     ### SUPERVISED LEARNING
     </summary><br>
   <details>
