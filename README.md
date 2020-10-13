@@ -55,10 +55,36 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
   -Random Forest
 </details>
   
+</details> <br> 
+<details>
+  <summary>
+    
+```diff
+A. Predict/Regression Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
   <br><br><br>
   
-</details> <br> <br> <br> <br> <br>
-
+</details>
 </details>
 </details>
 
