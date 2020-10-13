@@ -18,7 +18,13 @@ Video =>[     ]( ) <br>
 Book =>[     ]( ) <br>
 
 <details><summary>Subjects</summary>
-  <details><summary>Subjects</summary>
+  <details><summary>1)DATA SCIENCE & MACHINE LEARNING</summary>
+  -EDA<br>
+  </details><br>
+  <details><summary>2)NATURAL PROCESSING LANGUAGE</summary>
+  -EDA<br>
+  </details><br>
+  <details><summary>3)SQL</summary>
   -EDA<br>
   </details><br>
   </details>
