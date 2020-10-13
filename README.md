@@ -37,8 +37,7 @@ B. Classification Algorithms
 1-----**Spotify Sınıflandırma Projesi**<br>
 Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
 Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
-<details>
-<summary>Algorithms</summary>
+<details><summary>Used Algorithms</summary>
 -Random Forest
 </details>
 
@@ -47,10 +46,7 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 ```diff
 A. Clustering Algorithms
 ```
-<details>
-<summary>Algorithms</summary>
--Random Forest
-</details>
+
 
 ## 2)NATURAL PROCESSING LANGUAGE
 1-----**Bacchanal Buffet Restoran Müşteri Yorumları Duygu Analizi** <br>
