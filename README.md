@@ -29,9 +29,11 @@ Book =>[     ]( ) <br> <br> <br> <br> <br>
 ### SUPERVISED LEARNING</summary><br>
   <details>
   <summary>
+    
 ```diff
 A. Predict/Regression Algorithms
-```</summary><br>
+```
+  </summary><br>
     
 1-----**Spotify Sınıflandırma Projesi**<br>
 Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
