@@ -31,6 +31,8 @@ Book =>[     ]( ) <br> <br> <br> <br> <br>
   <summary>
     
 ```diff
+<details>
+  <summary>
 A. Predict/Regression Algorithms
 ```
   </summary><br>
