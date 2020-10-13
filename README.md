@@ -153,7 +153,7 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 <details>
   <summary>             
     
-## 1)DATA SCIENCE & MACHINE LEARNING</summary><br>
+## 2)NATURAL PROCESSING LANGUAGE</summary><br>
   <details>
   <summary>
     
@@ -282,7 +282,7 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 <details>
   <summary>             
     
-## 1)DATA SCIENCE & MACHINE LEARNING</summary><br>
+## 3)SQL</summary><br>
   <details>
   <summary>
     
@@ -408,6 +408,263 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 </details>
 <br>
 
+<details>
+  <summary>             
+    
+## 1)EKSTRA</summary><br>
+  <details>
+  <summary>
+    
+### SUPERVISED LEARNING</summary><br>
+<details>
+  <summary>
+    
+```diff
+A. Predict/Regression Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+</details> <br> 
+<details>
+  <summary>
+    
+```diff
+A. Classification Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+  <br><br><br>
+  
+</details>
+</details>
+ <details>
+  <summary>
+    
+### UNSUPERVISED LEARNING</summary><br>
+<details>
+  <summary>
+    
+```diff
+A. Predict/Regression Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+</details> <br> 
+<details>
+  <summary>
+    
+```diff
+B. Classification Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+  <br><br><br>
+  
+</details>
+</details>
+</details>
+<br>
+
+<details>
+  <summary>             
+    
+## 5)DATA ENGINEERING</summary><br>
+  <details>
+  <summary>
+    
+### SUPERVISED LEARNING</summary><br>
+<details>
+  <summary>
+    
+```diff
+A. Predict/Regression Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+</details> <br> 
+<details>
+  <summary>
+    
+```diff
+A. Classification Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+  <br><br><br>
+  
+</details>
+</details>
+ <details>
+  <summary>
+    
+### UNSUPERVISED LEARNING</summary><br>
+<details>
+  <summary>
+    
+```diff
+A. Predict/Regression Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+</details> <br> 
+<details>
+  <summary>
+    
+```diff
+B. Classification Algorithms
+```
+  </summary><br>
+    
+1-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+-Random Forest
+</details>
+
+2-----**Spotify Sınıflandırma Projesi**<br>
+Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
+Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+<details><summary>Used Algorithms</summary>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest<br>
+  -Random Forest
+</details>
+  
+  <br><br><br>
+  
+</details>
+</details>
+</details>
+<br>
 
 
 
