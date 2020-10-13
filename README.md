@@ -17,76 +17,14 @@ Github =>[     ]( ) <br>
 Video =>[     ]( ) <br>
 Book =>[     ]( ) <br>
 
-<details><summary>Subjects</summary>
-  <details><summary>
 
-```diff
-B. Classification Algorithms
-```
-1-----**Spotify Sınıflandırma Projesi**<br>
-Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
-Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
-<details><summary>Used Algorithms</summary>
--Random Forest
-</details>
 
-2-----**Spotify Sınıflandırma Projesi**<br>
-Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
-Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
-<details><summary>Used Algorithms</summary>
-  -Random Forest<br>
-  -Random Forest<br>
-  -Random Forest<br>
-  -Random Forest<br>
-  -Random Forest
-</details>
 
-3-----**Spotify Sınıflandırma Projesi**<br>
-Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
-Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
-<details><summary>Used Algorithms</summary>
--Random Forest
-</details>
 
-4-----**Spotify Sınıflandırma Projesi**<br>
-Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
-Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
-<details><summary>Used Algorithms</summary>
--Random Forest
-</details>
-
-### UNSUPERVISED LEARNING
-
-```diff
-A. Clustering Algorithms
-```
-
-</summary>
+<details>
+  <summary>Subjects</summary>
   -EDA<br>
-  </details><br>
-  <details><summary>2)NATURAL PROCESSING LANGUAGE</summary>
-  -EDA<br>
-  </details><br>
-  <details><summary>3)SQL</summary>
-  -EDA<br>
-    </details><br>
-  <details><summary>3)EKSTRA</summary>
-  -EDA<br>
-    </details><br>
-  <details><summary>3)DATA ENGINEERING</summary>
-  -EDA<br>
-  </details><br>
-  </details>
-
-
-
-
-<details><summary>Subjects</summary>
-  -EDA<br>
-  -SUPERVISED LEARNING<br>
-  -UNSUPERVISED LEARNING<br>
-  -NLP<br>
-  -EKSTRA
+  
 </details>
 
 
