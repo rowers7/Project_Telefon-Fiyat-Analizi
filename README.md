@@ -37,7 +37,12 @@ B. Classification Algorithms
 1-----**Spotify Sınıflandırma Projesi**<br>
 Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
 Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3) <br>
-
+<details>
+<summary>Algorithms `code`</summary>
+```
+Random Forest
+```
+</details>
 ### UNSUPERVISED LEARNING
 ```diff
 A. Clustering Algorithms
