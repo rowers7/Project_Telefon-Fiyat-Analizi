@@ -22,14 +22,20 @@ Book =>[     ]( ) <br> <br> <br> <br> <br>
 
 
 <details>
-  <summary>## 1)DATA SCIENCE & MACHINE LEARNING</summary>
-  <details>
-  <summary>### SUPERVISED LEARNING</summary>
+  <summary>
+    ## 1)DATA SCIENCE & MACHINE LEARNING
+  </summary><br>
   <details>
   <summary>
+    ### SUPERVISED LEARNING
+    </summary><br>
+  <details>
+  <summary>
+    
 ```diff
 A. Predict/Regression Algorithms
-```</summary>
+```
+    </summary><br>
 1-----**Spotify Sınıflandırma Projesi**<br>
 Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
 Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
