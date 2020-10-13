@@ -17,6 +17,26 @@ Github =>[     ]( ) <br>
 Video =>[     ]( ) <br>
 Book =>[     ]( ) <br>
 
+<details><summary>Subjects</summary>
+  <details><summary>Subjects</summary>
+  -EDA<br>
+  </details><br>
+  </details>
+
+
+
+
+<details><summary>Subjects</summary>
+  -EDA<br>
+  -SUPERVISED LEARNING<br>
+  -UNSUPERVISED LEARNING<br>
+  -NLP<br>
+  -EKSTRA
+</details>
+
+
+
+
 
 ## 1)DATA SCIENCE & MACHINE LEARNING
 
