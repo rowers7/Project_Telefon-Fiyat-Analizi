@@ -23,7 +23,6 @@ Book =>[     ]( ) <br> <br> <br> <br> <br>
 
 <details>
   <summary>             
-    
 ## 1)DATA SCIENCE & MACHINE LEARNING</summary><br>
   <details>
   <summary>
