@@ -132,15 +132,11 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 -Random Forest
 </details>
 
-2-----**Spotify Sınıflandırma Projesi**<br>
-Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
-Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
+2-----**US Health Insurance Marketplace**<br>
+Yazı =>[US Health Insurance Marketplace](https://medium.com/@yagmurbali/us-health-insurance-marketplace-a2590086a4ac) <br>
+Github =>[US_Health_Insurance_Marketplace](https://github.com/yagmurbali/US_Health_Insurance_Marketplace)
 <details><summary>Used Algorithms</summary>
-  -Random Forest<br>
-  -Random Forest<br>
-  -Random Forest<br>
-  -Random Forest<br>
-  -Random Forest
+  -<br>
 </details>
   
   <br><br><br>
