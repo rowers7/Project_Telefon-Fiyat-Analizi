@@ -683,7 +683,13 @@ Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascienc
 
 
 ### EDA
-1-----** Analizi** <br>
+1-----**Dünya Mutluluk Analizi** <br>
+Article =>[Why are citizens in some countries happier than others?](https://medium.com/@sarioglub/eda-project-why-are-citizens-in-some-countries-happier-than-others-93e47d1bbc56) <br>
+Github =>[world-happiness-report-EDA](https://github.com/berfinsarioglu/world-happiness-report-EDA)
+<details><summary>Used Algorithms</summary>
+</details>
+
+
 
 ### SUPERVISED LEARNING
 ```diff
