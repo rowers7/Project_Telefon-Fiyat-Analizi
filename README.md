@@ -39,7 +39,11 @@ Github =>[world-happiness-report-EDA](https://github.com/berfinsarioglu/world-ha
 ```diff
 A. Predict/Regression Algorithms
 ```
-#### 1.Linear Regression
+1-----**Enflasyonun Kamu Bankalarında Faiz Üzerindeki Etkisinin Tahmini**<br>
+Article =>[Influence of Inflation on Interest in Public Banks
+](https://medium.com/@parlak.deniss/influence-of-inflation-on-interest-in-public-banks-43af3b2e39c1) <br>
+Github =>[Influence of Inflation](https://github.com/denizparlak1/datascience-project/tree/master/project-2) <br>
+
 
 
 ```diff
