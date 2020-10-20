@@ -39,6 +39,7 @@ Github =>[world-happiness-report-EDA](https://github.com/berfinsarioglu/world-ha
 ```diff
 A. Predict/Regression Algorithms
 ```
+
 1-----**Enflasyonun Kamu Bankalarında Faiz Üzerindeki Etkisinin Tahmini**<br>
 Article =>[Influence of Inflation on Interest in Public Banks
 ](https://medium.com/@parlak.deniss/influence-of-inflation-on-interest-in-public-banks-43af3b2e39c1) <br>
@@ -49,7 +50,7 @@ Github =>[Influence of Inflation](https://github.com/denizparlak1/datascience-pr
 ```diff
 B. Classification Algorithms
 ```
-1-----** Mutfak Sınıflandırması ve Konu Modellemesi**<br>
+1-----**Mutfak Sınıflandırması ve Konu Modellemesi**<br>
 Yazı =>[NLP Project: Cuisine Classification & Topic Modelling](https://medium.com/@mervehoroz14/nlp-project-cuisine-classification-topic-modelling-cd7b4c734b19) <br>
 Github =>[NLP_Cuisine_Prediction](https://github.com/MerveHoroz/NLP_Cuisine_Prediction)
 <details><summary>Used Algorithms</summary>
