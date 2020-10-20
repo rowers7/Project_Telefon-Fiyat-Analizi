@@ -53,15 +53,11 @@ B. Classification Algorithms
 1-----**Mutfak Sınıflandırması ve Konu Modellemesi**<br>
 Yazı =>[NLP Project: Cuisine Classification & Topic Modelling](https://medium.com/@mervehoroz14/nlp-project-cuisine-classification-topic-modelling-cd7b4c734b19) <br>
 Github =>[NLP_Cuisine_Prediction](https://github.com/MerveHoroz/NLP_Cuisine_Prediction)
-<details><summary>Used Algorithms</summary>
--Random Forest
-</details>
+
 2-----**Spotify Sınıflandırma**<br>
 Yazı =>[Spotify Classification Project](https://medium.com/@erdemdagdeviren/spotify-classification-project-cd91a0765d0f) <br>
 Github =>[Spotify Classification Project](https://github.com/erdemd39/Datascience-Project/tree/master/Project_3)
-<details><summary>Used Algorithms</summary>
--Random Forest
-</details>
+
 
 
 ### UNSUPERVISED LEARNING
