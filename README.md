@@ -78,6 +78,11 @@ Github =>[YELP Analysis](https://github.com/yalinyener/NLPClassification) <br>
 Article =>[NLP Project: Sentiment Analysis](https://medium.com/analytics-vidhya/restaurant-reviews-sentiment-analysis-and-reccomendation-9bdf31a0b20) <br>
 Github =>[RestaurantReviews-SentimentAndRecommendation](https://github.com/aybukemeydan/RestaurantReviews-SentimentAndRecommendation) <br>
 
+3-----**BBC Haberleri Sınıflandırma** <br>
+Article =>[BBC News Text Classification](https://cigdem-ilban.medium.com/bbc-news-text-classification-a1b2a61af903) <br>
+Github =>[NewsTextClassification](https://github.com/cigdemtuncer/NewsTextClassification) <br>
+
+
 
 
 ## 3)SQL
